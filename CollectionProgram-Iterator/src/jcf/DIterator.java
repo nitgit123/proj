@@ -19,7 +19,7 @@ public class DIterator {
 		Iterator<Integer>it2=al.iterator();
 		it2.forEachRemaining((k)->{
 			System.out.println(k+"");
-			System.out.println("New Change by sumit");
+			System.out.println("New Change by sanjay");
 		});
 	}
 
